@@ -1,0 +1,18 @@
+html,
+body {
+  overflow: hidden !important;
+}
+
+body {
+  padding: 20px 50px;
+}
+h1 {
+  margin-bottom: 50px;
+}
+
+.v-btn {
+  margin-left: 10px !important;
+}
+.v-overlay__scrim {
+  transition: none !important;
+}

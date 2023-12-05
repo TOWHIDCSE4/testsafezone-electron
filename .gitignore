@@ -1,0 +1,10 @@
+node_modules
+dist
+out
+pki
+*.log*
+yarn.lock
+.idea
+resources/safezone.db
+.env*
+electron-builder.env
